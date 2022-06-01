@@ -1,0 +1,3 @@
+git init      >  initialize git in present folder
+git status    >  list all untracked files
+git add -A    >  changes add into Staging Area
