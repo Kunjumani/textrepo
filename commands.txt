@@ -2,3 +2,5 @@ git init      >  initialize git in present folder
 git status    >  list all untracked files
 git add -A    >  changes add into Staging Area
 git commit -m "initial commit"  > changes adding from Stagi in Area to Remote Repo
+git remote add name path
+git push -u name branch(master)
